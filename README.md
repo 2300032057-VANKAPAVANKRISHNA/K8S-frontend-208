@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# k8sfrontendecommerce" 
 "# k8sfrontendecommerce" 
 "# K8S-frontend-208" 
+"# K8S-frontend-208" 
